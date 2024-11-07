@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 
 Este repositório foi criado para que avaliadores possam acessar minhas experiências com Terraform e AWS.
 
